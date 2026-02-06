@@ -34,6 +34,7 @@ Here's a little of my experience and some projects I have been a part of.
 - 📊 Excel / Power Query
 - 💽 PowerBI / PowerQuery
 - 📈 Looker Studio
+- VScode 
 
 ---
 
