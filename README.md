@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### 👩‍💻 Scrum Master | Data Analytics | Project Manager | Project Office Manager
+### 👩‍💻 Scrum Master | Data Analytics | Project Manager
 
 </div>
 
@@ -24,43 +24,29 @@ Here's a little of my experience and some projects I have been a part of.
 
 ---
 
-## 🛠️ Minhas Habilidades
+## 🛠️ Skills
 
-**Linguagens:**
+**Languages:**
 - 🐍 Python
 - 🗄️ SQL
+- 📊 Dax 
 
-**Ferramentas:**
+**Tools:**
 - 📊 Excel / Power Query
 - 💽 PowerBI / PowerQuery
 - 📈 Looker Studio
-- VScode 
+- 💽 VScode
 
 ---
 
-## 💼 Meus Projetos em Destaque
+## 💼 My Projects
 
-### 📊 [ I. Project: Análise de Vendas](link-aqui)
-Análise das vendas de veículos e descrição dos leads com SQL e Excel
-
-### 🏪 [Projeto 2: Data Mart Marketing](link-aqui)
-Implementação de um Data Mart usando Pentaho PDI
-
-### 🗄️ [Projeto 3: Banco de Dados Avançado](link-aqui)
-Desenvolvimento e consultas SQL avançadas
-
-### 🏢 [Projeto 4: Data Warehouse Python](link-aqui)
-Implementando um Data Warehouse com Python
-
-### ☁️ [Projeto 5: Pipeline ETL GCP](link-aqui)
-ETL na Google Cloud Platform com Dataflow e BigQuery
-
-### 🌐 [Projeto 6: Pipeline ETL AWS](link-aqui)
-ETL na AWS usando S3, Lambda, Glue e Spark
+### 📊 [ I. Project: Wolrd voleyball analysis ]([link-aqui](https://github.com/byna1/world_voley/projects))
+Analysis of world voleybal domestic leagues to understand the influence of quantity or quality of leagues into the ranking position of the national teams in international championships.
 
 ---
 
-## 📫 Contatos
+## 📫 Contact
 
 📧 **Email:** [barbaraynaye@gmail.com]
 
