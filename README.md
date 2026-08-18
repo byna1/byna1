@@ -43,6 +43,16 @@ Comprehensive analysis of domestic volleyball leagues to understand whether **qu
 
 🔗 [View on GitHub](https://github.com/byna1/vnl_dash)
 
+
+### 🔄 CDC Pipeline on AWS
+
+Change Data Capture ingestion of an educational points system, from AWS S3 
+to Databricks with Delta Lake MERGE operations.
+
+**Tech:** Python | AWS S3 | Databricks | Delta Lake | SQL
+
+🔗 [View on GitHub](https://github.com/byna1/cdc-aws)
+
 ---
 
 ## 📫 Get in touch
