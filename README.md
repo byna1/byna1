@@ -6,7 +6,6 @@
 
 </div>
 
----
 
 ## 🙋‍♀️ About me
 
@@ -18,7 +17,7 @@ Currently working as a **freelancer** with data pipelines, exploratory analysis,
 🌱 **Learning:** New technologies in data engineering  
 💼 **Experience:** Project management, data analysis, team coaching  
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -32,7 +31,7 @@ Currently working as a **freelancer** with data pipelines, exploratory analysis,
 - 🔧 Git | GitHub
 - 📈 Looker Studio
 
----
+
 
 ## 💼 Featured Projects
 
@@ -53,7 +52,7 @@ to Databricks with Delta Lake MERGE operations.
 
 🔗 [View on GitHub](https://github.com/byna1/cdc-aws)
 
----
+
 
 ## 📫 Get in touch
 
@@ -61,7 +60,7 @@ to Databricks with Delta Lake MERGE operations.
 💼 **LinkedIn:** [linkedin.com/in/bycm](https://www.linkedin.com/in/bycm/)  
 🐙 **GitHub:** [github.com/byna1](https://github.com/byna1)
 
----
+
 
 <div align="center">
   
